@@ -1,0 +1,6 @@
+
+brew install ffmpeg
+pip install gpt_index==0.4.24
+pip install -U langchain
+pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+export IMAGEIO_FFMPEG_EXE=/opt/homebrew/bin/ffmpeg

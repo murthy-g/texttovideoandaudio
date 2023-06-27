@@ -1,0 +1,12 @@
+openai
+pandas
+gtts
+mutagen
+moviepy
+ffmpeg
+gpt_index
+langchain
+gradio
+argparse
+httplib2
+google.oauth2
