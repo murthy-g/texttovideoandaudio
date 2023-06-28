@@ -1,13 +1,13 @@
 prequisites:
 
-create the openai chatgpt account and create key
+1.) create the openai chatgpt account and create key
 
-https://platform.openai.com/account/api-keys
+   https://platform.openai.com/account/api-keys
 
-install python3
-pip install -r requirements.txt
-run all the commands from adhocinstall.txt
+2.) install python3
+3.) pip install -r requirements.txt
+4.) run all the commands from adhocinstall.txt
 
-run python main.py 
+5.) run python main.py 
 
    this will create mp3 file and mp4 with all the images and converts text to audio/video
