@@ -5,8 +5,11 @@ prequisites:
    https://platform.openai.com/account/api-keys
 
 2.) install python3
+
 3.) pip install -r requirements.txt
+
 4.) run all the commands from adhocinstall.txt
+
 5.) add org and key from point 1 to apidata.config file
 
 6.) run python main.py 
