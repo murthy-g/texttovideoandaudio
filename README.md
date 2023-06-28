@@ -15,3 +15,5 @@ prequisites:
 6.) run python main.py 
 
    this will create mp3 file and mp4 with all the images and converts text to audio/video
+7.) deploy to youtube pending
+8.) creae insta posts pending
